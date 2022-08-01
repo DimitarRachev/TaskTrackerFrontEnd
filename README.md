@@ -1,4 +1,8 @@
 # Tasktracker
+![image](https://user-images.githubusercontent.com/101884374/182212039-3c8f0e49-b0e9-4ca4-a09d-ad95de5e8107.png)
+![image](https://user-images.githubusercontent.com/101884374/182212086-2f06fc78-e31e-4e7f-9312-053f923eaf16.png)
+![image](https://user-images.githubusercontent.com/101884374/182212112-c49024e0-547d-4fdd-ad0e-02ec6b74555b.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
